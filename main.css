@@ -1,0 +1,17 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start; 
+    padding-top: 50px; 
+    background-color: rgb(72, 153, 242); 
+}
+
+
+
+#gameCanvas {
+    width: 480px;
+    height: 800px;
+    background-color: rgb(180,180,180); 
+}
+
+
